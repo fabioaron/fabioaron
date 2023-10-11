@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fabioaron
 - 👀 I’m interested in Backend
-- 🌱 I’m currently learning Python, HTML, CSS, C
+- 🌱 I’m currently learning Python, HTML, CSS, Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
