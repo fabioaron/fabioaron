@@ -1,5 +1,5 @@
 # Fabio Aron
- Me chamo Fabio Aron, tenho 19 anos, amo desde cedo a tecnologia, já cursei cursos de Lógica de programação, Suporte Técnico, e atualmente estudo linguagens de programação, e tenho como prioridade inicialmente o Back-End e me tornar futuramente um Full Stack.
+ Me chamo Fabio Aron, tenho 19 anos, amo desde cedo a tecnologia, já cursei cursos de Lógica de programação, Suporte Técnico, e atualmente estudo linguagens de programação, e tenho como prioridade inicialmente o Back-End voltado a Java.
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=800080)](https://www.linkedin.com/in/fabioaron/)
