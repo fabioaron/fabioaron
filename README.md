@@ -1,17 +1,24 @@
 # Fabio Aron
- Me chamo Fabio Aron, tenho 19 anos, amo desde cedo a tecnologia, já cursei cursos de Lógica de programação, Suporte Técnico, e atualmente estudo linguagens de programação, e tenho como prioridade inicialmente o Back-End voltado a Java.
+ Me chamo Fabio Aron, tenho 19 anos, moro em São Paulo - SP, amo desde cedo ser criativo, conhecer tecnologia e aprender coisas novas ou reaprender o que já sei, já cursei cursos de Lógica de programação, Suporte Técnico, e atualmente estudo linguagens de programação, e tenho como prioridade inicialmente o Back-End voltado a Java.
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=800080)](https://www.linkedin.com/in/fabioaron/)
 [![GitHub](https://img.shields.io/badge/GitHbt-000?style=for-the-badge&logo=github&logoColor=purple)](+https://github.com/fabioaron)
 
 
-## Habilidades
+## Hard Skills
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=800080)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=800080)
 ![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=800080)
 [![GitHub](https://img.shields.io/badge/GitHbt-000?style=for-the-badge&logo=github&logoColor=purple)](+https://github.com/)
+
+## Soft Skills
+![Criatividadev](https://img.shields.io/badge/-CRIATIVIDADE🧠-000?logo=&Color=white&style=flat-square)
+![Motivação](https://img.shields.io/badge/MOTIVAÇÃO💪-000?logo=&Color=white&style=flat-square)
+![Trabalho em Equipe](https://img.shields.io/badge/TRABALHO_EM_EQUIPE👥-000?logo=&Color=white&style=flat-square)
+![Proatividade](https://img.shields.io/badge/PROATIVIDADE🏃‍♂️-000?logo=&Color=white&style=flat-square)
+![Foco](https://img.shields.io/badge/FOCO👁-000?logo=&Color=white&style=flat-square)
 
 ## Github Stats
 
