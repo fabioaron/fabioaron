@@ -3,7 +3,7 @@
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=800080)](https://www.linkedin.com/in/fabioaron/)
-[![GitHub](https://img.shields.io/badge/GitHbt-000?style=for-the-badge&logo=github&logoColor=purple)](+https://github.com/fabioaron)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=purple)](https://github.com/fabioaron)
 
 
 ## Hard Skills
