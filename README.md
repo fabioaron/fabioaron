@@ -5,6 +5,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=800080)](https://www.linkedin.com/in/fabioaron/)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=purple)](https://github.com/fabioaron)
 
+## Portfólio
+[![Primeiro projeto](https://img.shields.io/badge/-PRIMEIRO_SITE-000?logo=&Color=white&style=flat-square)](https://fabioaron.github.io/fabioaron/)
 
 ## Hard Skills
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
@@ -14,7 +16,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=purple)](+https://github.com/)
 
 ## Soft Skills
-![Criatividadev](https://img.shields.io/badge/-CRIATIVIDADE🧠-000?logo=&Color=white&style=flat-square)
+![Criatividade](https://img.shields.io/badge/-CRIATIVIDADE🧠-000?logo=&Color=white&style=flat-square)
 ![Motivação](https://img.shields.io/badge/MOTIVAÇÃO💪-000?logo=&Color=white&style=flat-square)
 ![Trabalho em Equipe](https://img.shields.io/badge/TRABALHO_EM_EQUIPE👥-000?logo=&Color=white&style=flat-square)
 ![Proatividade](https://img.shields.io/badge/PROATIVIDADE🏃‍♂️-000?logo=&Color=white&style=flat-square)
