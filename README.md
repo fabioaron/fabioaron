@@ -11,7 +11,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=800080)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=800080)
 ![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=800080)
-[![GitHub](https://img.shields.io/badge/GitHbt-000?style=for-the-badge&logo=github&logoColor=purple)](+https://github.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=purple)](+https://github.com/)
 
 ## Soft Skills
 ![Criatividadev](https://img.shields.io/badge/-CRIATIVIDADE🧠-000?logo=&Color=white&style=flat-square)
