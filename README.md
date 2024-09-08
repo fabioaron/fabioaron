@@ -1,5 +1,5 @@
 # Fabio Aron
- Me chamo Fabio Aron, tenho 19 anos, moro em São Paulo - SP, amo desde cedo ser criativo, conhecer tecnologia e aprender coisas novas ou reaprender o que já sei, já cursei cursos de Lógica de programação, Suporte Técnico, e atualmente estudo linguagens de programação, pretendo me tornar um Desenvolvedor Full Stack.
+ Me chamo Fabio Aron, tenho 20 anos, moro em São Paulo - SP, amo desde cedo ser criativo, conhecer tecnologia e aprender coisas novas ou reaprender o que já sei, já cursei cursos de Lógica de programação, Suporte Técnico, e atualmente estudo linguagens de programação, pretendo me tornar um Desenvolvedor Full Stack.
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=800080)](https://www.linkedin.com/in/fabioaron/)
