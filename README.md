@@ -9,11 +9,11 @@
 [![Primeiro projeto](https://img.shields.io/badge/-PRIMEIRO_SITE-000?logo=&Color=white&style=flat-square)](https://fabioaron.github.io/fabioaron/)
 
 ## Hard Skills
-![C#](https://img.shields.io/badge/language-C%?style=for-the-badge&logo=html5&logoColor=800080)
+![C#](https://img.shields.io/badge/C%23-000?&style=for-the-badgelogo=c-sharp&logoColor=800080)
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=800080)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=800080)
-![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=800080)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=purple)](+https://github.com/)
+![ORACLE](https://img.shields.io/badge/-Oracle%20Database-F80000?logo=oracle&logoColor=white&style=for-the-badge)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=purple)](+https://github.com/fabioaron)
 
 ## Soft Skills
 ![Criatividade](https://img.shields.io/badge/-CRIATIVIDADE🧠-000?logo=&Color=white&style=flat-square)
