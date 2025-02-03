@@ -9,7 +9,7 @@
 [![Primeiro projeto](https://img.shields.io/badge/-PRIMEIRO_SITE-000?logo=&Color=white&style=flat-square)](https://fabioaron.github.io/fabioaron/)
 
 ## Hard Skills
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
+![C#](https://img.shields.io/badge/language-C%?style=for-the-badge&logo=html5&logoColor=800080)
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=800080)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=800080)
 ![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=800080)
