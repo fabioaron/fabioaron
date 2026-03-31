@@ -2,7 +2,7 @@
 
 ### AI/ML Engineer
 
-- 🌱 I'm currently learning **Intermdiate Python, Sckit-Learn, PyTorch and Keras.**
+- 🌱 I'm currently learning **Intermediate Python, Sckit-Learn, PyTorch and Keras.**
 
 - 💬 Ask me about **python, AI, ML and math**
 
