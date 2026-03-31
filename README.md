@@ -2,13 +2,13 @@
 
 ### AI/ML Engineer
 
-- 🌱 I'm currently learning **Advanced Python, Sckit-Learn, PyTorc and Keras.**
+- 🌱 I'm currently learning **Intermdiate Python, Sckit-Learn, PyTorch and Keras.**
 
 - 💬 Ask me about **python, AI, ML and math**
 
 - 📫 How to reach me **fabioarondev@gmail.com**
 
-- ⚡ Fun fact **I love everything about art **
+- ⚡ Fun fact **I love everything about art, games and music **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
